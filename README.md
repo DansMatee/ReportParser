@@ -26,6 +26,6 @@ Functionality created with python. Batch scripts created for ease of use.
 7. To clear spreadsheet and all reports from reports folders, run clear.bat.
 
 ## Images
-- Output spreadsheet with reports added.
+- Output spreadsheet with reports added. <br>
 ![image](https://github.com/user-attachments/assets/37936d4c-7565-4cf3-95ab-bc94cdc1a4dc)
 
