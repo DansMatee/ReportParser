@@ -24,3 +24,8 @@ Functionality created with python. Batch scripts created for ease of use.
 5. Install the required packages ```pip install -r requirements.txt```
 6. Once requirements are installed, drag and drop depot specific reports in each folder, and use run.bat, spreadsheet will be created in the root folder once finished.
 7. To clear spreadsheet and all reports from reports folders, run clear.bat.
+
+## Images
+- Output spreadsheet with reports added.
+![image](https://github.com/user-attachments/assets/37936d4c-7565-4cf3-95ab-bc94cdc1a4dc)
+
